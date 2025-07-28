@@ -1,0 +1,17 @@
+#include <iostream>
+
+using namespace std;
+
+int main(void)
+{
+    
+    float f;
+    
+    cout << "Input a Float: ";
+    
+    cin >> f;
+    
+    cout << "f * f = " << f*f;
+    
+    return 0;
+}
