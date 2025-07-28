@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+int main(void)
+{
+    
+    float f = 2.936;
+    int i = 5;
+    
+    cout << "f * i = " << f * i << endl;
+    cout << "f / i = " << f / i << endl;
+    
+    return 0;
+}
