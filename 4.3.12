@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+#define USD_TW 32.34
+
+int main(void)
+{
+    int amount = 20;
+    
+    cout << amount * USD_TW << endl;
+    
+    return 0;
+}
